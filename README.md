@@ -1,13 +1,43 @@
-# Product Requirements & User Story Repository
+# AI Ticket Workflow Management System
 
-This repository represents my approach toward Product Ownership, Agile delivery, stakeholder collaboration, and business-to-technical documentation.
+## Overview
+AI-assisted ticket workflow system designed to automate ticket categorization, SLA prediction, workflow automation, and dashboard reporting.
 
-The goal of this repository is to showcase:
-- Product Requirement Documents (PRDs)
-- User Stories & Acceptance Criteria
-- Agile & Scrum workflows
-- Product roadmaps
-- Business process understanding
-- AI-driven product ideas and workflow concepts
+---
 
-As I continue evolving toward AI-enabled Product & Data leadership, this repository serves as a space to document practical product thinking, workflows, and transformation ideas.
+## Key Features
+- AI Ticket Categorization
+- SLA Prediction
+- Workflow Automation
+- Dashboard Reporting
+- Priority Recommendation
+
+---
+
+## Repository Structure
+
+| Folder | Description |
+|--------|-------------|
+| Agile Workflows | Sprint and scrum workflows |
+| Product Requirements | BRD and PRD documents |
+| User Stories | Agile user stories |
+| Templates | PM & Agile templates |
+| Roadmaps | Product roadmap documents |
+
+---
+
+## Product Management Concepts Covered
+- Agile/Scrum
+- AI Product Operations
+- SLA Monitoring
+- Workflow Automation
+- Dashboard Analytics
+- AI Governance
+- UAT & Risk Assessment
+
+---
+
+## Future Enhancements
+- GenAI Chatbot Integration
+- Predictive Incident Analytics
+- AI Copilot for Support Teams
