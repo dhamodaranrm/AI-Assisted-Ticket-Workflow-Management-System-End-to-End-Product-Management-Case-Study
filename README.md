@@ -91,3 +91,7 @@ Architecture & Governance
 - GenAI Chatbot Integration
 - Predictive Incident Analytics
 - AI Copilot for Support Teams
+
+## Disclaimer
+
+This repository is a self-initiated Product Management and AI solution design case study created for learning, portfolio, and demonstration purposes. All content, documents, workflows, and architectures are based on conceptual examples and do not contain any proprietary, confidential, customer, or employer information.
